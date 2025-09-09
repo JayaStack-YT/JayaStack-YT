@@ -1,8 +1,5 @@
 ## Hello there 👋
 
-
-**JayaStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 Currently building interactive web apps with React and Node.js.
 🌱 Exploring TypeScript and advanced JavaScript design patterns.
 👯 Always excited to collaborate on open-source MERN stack projects.
